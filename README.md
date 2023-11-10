@@ -1,5 +1,3 @@
-
-```markdown
 # OCI Function for Billing to S3
 
 ## Overview
